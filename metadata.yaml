@@ -1,5 +1,5 @@
 _repo: Autobiography-of-Mother-Jones_65079
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Darrow, Clarence
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '4184'
     url: http://www.gutenberg.org/2009/agents/4184
     wikipedia: http://en.wikipedia.org/wiki/Clarence_Darrow
+covers:
+- cover_type: archival
+  image_path: 65079-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Mary Harris
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '53173'
     url: http://www.gutenberg.org/2009/agents/53173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65079#Autobiography-of-Mother-Jones
 gutenberg_issued: '2021-04-13'
 gutenberg_type: Text
 identifiers:
